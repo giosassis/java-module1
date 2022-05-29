@@ -1,6 +1,6 @@
 package src.sintaxe;
 
-public class Variaveis {
+public class Int {
 
   public static void main(String[] args) {
     System.out.println("Olá novo teste");
@@ -9,5 +9,6 @@ public class Variaveis {
     idade = 37;
 
     System.out.println("A idade é " + idade);
+    System.out.println("A idade é " + idade + ", parabéns!");
   }
 }
