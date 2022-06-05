@@ -3,12 +3,12 @@ package src.sintaxe;
 public class Double {
     public static void main(String[] args) {
 
-        double salario;
-        salario = 3455.88;
+        double money;
+        money = 3455.88;
 
-        System.out.println("Meu salário é " + salario);
+        System.out.println("My money is " + money);
 
-        double divisao = 3.14 / 2;
-        System.out.println(divisao);
+        double divide = 3.14 / 2;
+        System.out.println(divide);
     }
 }

@@ -5,10 +5,10 @@ public class Int {
   public static void main(String[] args) {
     System.out.println("Olá novo teste");
 
-    int idade;
-    idade = 37;
+    int age;
+    age = 37;
 
-    System.out.println("A idade é " + idade);
-    System.out.println("A idade é " + idade + ", parabéns!");
+    System.out.println("A age é " + age);
+    System.out.println("A age é " + age + ", parabéns!");
   }
 }

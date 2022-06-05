@@ -1,8 +1,8 @@
 package src.sintaxe;
 
-public class Caracteres {
+public class Character {
     public static void main(String[] args) {
-        char letra = 'a';
+        char letter = 'a';
         
     }
 }
