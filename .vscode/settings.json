@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src/hello-world",
+        "src/conditional",
+        "src/sintaxe/conditional"
+    ]
+}
